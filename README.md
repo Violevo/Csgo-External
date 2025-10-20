@@ -1,5 +1,5 @@
 # Csgo-External-Aimbot
-Working external aimbot for csgo - got offsets from hazedumper (https://github.com/frk1/hazedumper). Should be fully undetected if you update the offsets
+Working external aimbot for csgo - got offsets from hazedumper (https://github.com/frk1/hazedumper). Should be work with updated offsets
 
 ## Features
 - Aimbot
